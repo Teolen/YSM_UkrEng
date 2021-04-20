@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvCount21"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="N1"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tvHead2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="ПРАВОПИС"
+            android:textAlignment="center"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tvCount22"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="0/0"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivQuest2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        app:srcCompat="@drawable/school" />
+
+    <TextView
+        android:id="@+id/tvQuest2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:padding="10dp"
+        android:text="Школа"
+        android:textAlignment="center"
+        android:textColor="#E4000000"
+        android:textSize="30sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/etAnsw2"
+            android:inputType="text"
+            android:imeOptions="actionDone"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:hint="Введіть переклад"
+            android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tvRAnsw2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="#E4000000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/bNext2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#C8C8C8"
+        android:text="ДАЛІ"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+</LinearLayout>

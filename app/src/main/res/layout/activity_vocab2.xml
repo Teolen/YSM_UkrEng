@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VocabActivity2">
+
+    <TextView
+        android:id="@+id/tvVocab21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/tvVocab21"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toTopOf="@+id/bVocab22"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bVocab22"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:text="@string/bVocab22"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/bVocab23"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvVocab21" />
+
+    <Button
+        android:id="@+id/bVocab23"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:text="@string/bVocab23"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/bVocab24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bVocab22" />
+
+    <Button
+        android:id="@+id/bVocab24"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:layout_marginBottom="30dp"
+        android:text="@string/bVocab24"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bVocab23" />
+</androidx.constraintlayout.widget.ConstraintLayout>

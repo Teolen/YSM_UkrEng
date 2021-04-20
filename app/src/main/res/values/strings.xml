@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">YSM_UkrEng</string>
+    <string name="btnWords">ТЕСТИ</string>
+    <string name="btnVocab">СЛОВНИК</string>
+    <string name="btnSet">НАЛАШТУВАННЯ</string>
+    <string name="btnExit">ВИХІД</string>
+    <string name="btnWords1">СЛОВА</string>
+    <string name="btnWords3">ГРАМАТИКА</string>
+    <string name="btnWords2">ПРАВОПИС</string>
+    <string name="tvWords">ТЕСТИ</string>
+    <string name="btnVocab1">НЕПРАВИЛЬНІ ДІЄСЛОВА</string>
+    <string name="btnVocab2">ЧАСИ</string>
+    <string name="btnVocab3">ПЕРЕКЛАДАЧ</string>
+    <string name="tvVocab">СЛОВНИК</string>
+    <string name="btnVocab4">СЛОВА</string>
+    <string name="title_activity_words4">WordsActivity4</string>
+    <string name="tvVocab21">ЧАСИ</string>
+    <string name="bVocab22">Теперішній</string>
+    <string name="bVocab23">Минулий</string>
+    <string name="bVocab24">Майбутній</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>

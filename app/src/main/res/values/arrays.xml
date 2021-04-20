@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Частини-->
+    <string-array name="Parts">
+        <item>Частина 1</item>
+        <item>Частина 2</item>
+        <item>Частина 3</item>
+        <item>Частина 4</item>
+        <item>Частина 5</item>
+    </string-array>
+
+    <!--Перша частина-->
+    <string-array name = "engwords1">
+        <item>car</item>
+        <item>bank</item>
+        <item>father</item>
+        <item>parents</item>
+        <item>business</item>
+        <item>ticket</item>
+        <item>brother</item>
+        <item>house</item>
+        <item>city</item>
+        <item>spring</item>
+        <item>party</item>
+        <item>kind</item>
+        <item>window</item>
+        <item>government</item>
+        <item>water</item>
+        <item>driver</item>
+        <item>hair</item>
+        <item>street</item>
+        <item>teacher</item>
+        <item>hour</item>
+        <item>head</item>
+        <item>game</item>
+        <item>money</item>
+        <item>group</item>
+        <item>door</item>
+        <item>day</item>
+        <item>tree</item>
+        <item>child</item>
+        <item>girl</item>
+        <item>issue</item>
+    </string-array>
+
+    <string-array name = "ukrwords1">
+        <item>автомобіль</item>
+        <item>банк</item>
+        <item>батько</item>
+        <item>батьки</item>
+        <item>бізнес, справа</item>
+        <item>білет</item>
+        <item>брат</item>
+        <item>будинок</item>
+        <item>велике місто</item>
+        <item>весна</item>
+        <item>вечірка</item>
+        <item>вид, сорт</item>
+        <item>вікно</item>
+        <item>влада</item>
+        <item>вода</item>
+        <item>водій</item>
+        <item>волосся</item>
+        <item>вулиця</item>
+        <item>вчитель</item>
+        <item>година</item>
+        <item>голова</item>
+        <item>гра</item>
+        <item>гроші</item>
+        <item>група</item>
+        <item>двері</item>
+        <item>день</item>
+        <item>дерево</item>
+        <item>дитина</item>
+        <item>дівчина</item>
+        <item>діло, випадок</item>
+    </string-array>
+
+    <!--Друга частина-->
+    <string-array name = "engwords2">
+        <item>home</item>
+        <item>daughter</item>
+        <item>board</item>
+        <item>friend</item>
+        <item>life</item>
+        <item>woman</item>
+        <item>law</item>
+        <item>question</item>
+        <item>gun</item>
+        <item>health</item>
+        <item>star</item>
+        <item>change</item>
+        <item>idea</item>
+        <item>food</item>
+        <item>name</item>
+        <item>information</item>
+        <item>other</item>
+        <item>history</item>
+        <item>camera</item>
+        <item>drop</item>
+        <item>map</item>
+        <item>picture</item>
+        <item>card</item>
+        <item>hand</item>
+        <item>room</item>
+        <item>end</item>
+        <item>book</item>
+        <item>team</item>
+        <item>company</item>
+        <item>box </item>
+    </string-array>
+
+    <string-array name = "ukrwords2">
+        <item>дім</item>
+        <item>дочка</item>
+        <item>дошка</item>
+        <item>друг</item>
+        <item>життя</item>
+        <item>жінка</item>
+        <item>закон</item>
+        <item>запитання</item>
+        <item>зброя</item>
+        <item>здоров\'я</item>
+        <item>зірка</item>
+        <item>зміна</item>
+        <item>ідея</item>
+        <item>їжа</item>
+        <item>ім\'я</item>
+        <item>інформація</item>
+        <item>інший</item>
+        <item>історія</item>
+        <item>камера</item>
+        <item>капля</item>
+        <item>карта</item>
+        <item>картинка</item>
+        <item>картка</item>
+        <item>кисть</item>
+        <item>кімната</item>
+        <item>кінець</item>
+        <item>книга</item>
+        <item>команда</item>
+        <item>компанія</item>
+        <item>коробка</item>
+    </string-array>
+
+    <!--Третя частина-->
+    <string-array name="engwords3" >
+        <item>country</item>
+        <item>face</item>
+        <item>bed</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>line</item>
+        <item>people</item>
+        <item>person</item>
+        <item>store</item>
+        <item>drawing</item>
+        <item>mother</item>
+        <item>art</item>
+        <item>town</item>
+        <item>place</item>
+        <item>month</item>
+        <item>power</item>
+        <item>moment</item>
+        <item>music</item>
+        <item>fly</item>
+        <item>ball</item>
+        <item>study</item>
+        <item>baby</item>
+        <item>night</item>
+        <item>leg</item>
+        <item>number</item>
+        <item>eye</item>
+        <item>education</item>
+        <item>office</item>
+        <item>lot</item>
+        <item>author</item>
+    </string-array>
+
+    <string-array name="ukrwords3" >
+        <item>країна</item>
+        <item>лице</item>
+        <item>ліжко</item>
+        <item>лікар</item>
+        <item>лікарня</item>
+        <item>лінія</item>
+        <item>люди</item>
+        <item>людина</item>
+        <item>магазин</item>
+        <item>малювання</item>
+        <item>матір</item>
+        <item>мистецтво</item>
+        <item>містечко</item>
+        <item>місце</item>
+        <item>місяць</item>
+        <item>міць, енергія</item>
+        <item>момент</item>
+        <item>музика</item>
+        <item>муха, літати</item>
+        <item>м\'яч</item>
+        <item>навчання</item>
+        <item>немовля</item>
+        <item>ніч</item>
+        <item>нога</item>
+        <item>номер</item>
+        <item>око</item>
+        <item>освіта</item>
+        <item>офіс</item>
+        <item>партія, багато</item>
+        <item>письменник</item>
+    </string-array>
+
+    <!--Четверта частина-->
+    <string-array name="engwords4" >
+        <item>south</item>
+        <item>north</item>
+        <item>floor</item>
+        <item>air</item>
+        <item>service</item>
+        <item>train</item>
+        <item>research</item>
+        <item>right</item>
+        <item>president</item>
+        <item>reason</item>
+        <item>problem</item>
+        <item>morning</item>
+        <item>result</item>
+        <item>fish</item>
+        <item>level</item>
+        <item>year</item>
+        <item>thing</item>
+        <item>job</item>
+        <item>work</item>
+        <item>story</item>
+        <item>arm</item>
+        <item>world</item>
+        <item>heart</item>
+        <item>sister</item>
+        <item>force</item>
+        <item>son</item>
+        <item>cheese</item>
+        <item>family</item>
+        <item>word</item>
+        <item>dog</item>
+    </string-array>
+
+    <string-array name="ukrwords4" >
+        <item>південь</item>
+        <item>північ</item>
+        <item>підлога</item>
+        <item>повітря</item>
+        <item>послуга</item>
+        <item>потяг</item>
+        <item>пошук, дослідження</item>
+        <item>правильний, право</item>
+        <item>президент</item>
+        <item>причина</item>
+        <item>проблема</item>
+        <item>ранок</item>
+        <item>результат</item>
+        <item>риба</item>
+        <item>рівень</item>
+        <item>рік</item>
+        <item>річ</item>
+        <item>робота</item>
+        <item>робота</item>
+        <item>розповідь, історія</item>
+        <item>рука</item>
+        <item>світ</item>
+        <item>серце</item>
+        <item>сестра</item>
+        <item>сила</item>
+        <item>син</item>
+        <item>сир</item>
+        <item>сім\'я</item>
+        <item>слово</item>
+        <item>собака</item>
+    </string-array>
+
+    <!--П'ята частина-->
+    <string-array name="engwords5" >
+        <item>back</item>
+        <item>community</item>
+        <item>sport</item>
+        <item>station</item>
+        <item>table</item>
+        <item>wall</item>
+        <item>side</item>
+        <item>east</item>
+        <item>television</item>
+        <item>area</item>
+        <item>week</item>
+        <item>body</item>
+        <item>student</item>
+        <item>fact</item>
+        <item>movie</item>
+        <item>minute</item>
+        <item>guy</item>
+        <item>boy</item>
+        <item>church</item>
+        <item>time</item>
+        <item>part</item>
+        <item>cup</item>
+        <item>reading</item>
+        <item>member</item>
+        <item>boat</item>
+        <item>man</item>
+        <item>school</item>
+        <item>way</item>
+        <item>state</item>
+        <item>egg</item>
+    </string-array>
+
+    <string-array name="ukrwords5" >
+        <item>спина, назад</item>
+        <item>спільнота</item>
+        <item>спорт</item>
+        <item>станція</item>
+        <item>стіл</item>
+        <item>стіна</item>
+        <item>сторона</item>
+        <item>схід</item>
+        <item>телебачення</item>
+        <item>територія</item>
+        <item>тиждень</item>
+        <item>тіло</item>
+        <item>учень, студент</item>
+        <item>факт</item>
+        <item>фільм</item>
+        <item>хвилина</item>
+        <item>хлопець</item>
+        <item>хлопчик</item>
+        <item>церква</item>
+        <item>час</item>
+        <item>частина</item>
+        <item>чашка</item>
+        <item>читання</item>
+        <item>член</item>
+        <item>човен</item>
+        <item>чоловік, людина</item>
+        <item>школа</item>
+        <item>шлях, спосіб</item>
+        <item>штат</item>
+        <item>яйце</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.startandroid.ysm_ukreng">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".TimesActivity"
+            />
+        <activity
+            android:name=".EndActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".VocabActivity3"
+            />
+        <activity android:name=".VocabActivity2"
+            />
+        <activity android:name=".VocabActivity1"
+            />
+        <activity
+            android:name=".VocabMainActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".WordsActivity3"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".WordsActivity2"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".WordsActivity1"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".WordsMainActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
